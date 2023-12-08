@@ -28,9 +28,9 @@
 				"tftft"
 			],
 			"images": [
-				"https://i.imgur.com/GbKTWSO.png",
-				"https://i.imgur.com/waINpZQ.jpg",
-				"https://i.imgur.com/FBZ5JLi.jpg"
+				"https://i.imgur.com/HhScmee.png",
+				"https://i.imgur.com/cZYR6BS.png",
+				"https://i.imgur.com/V4qn7J2.png"
 			],
 			"dependencies": [],
 			"status": {
@@ -38,7 +38,7 @@
 				"beta": true,
 				"patchnotes": "",
 				"notes": "Rocky Thoroughfare Update 2 (2.24.3) is out for beta testers now.",
-				"issues": "Mod is currently in closed testing, please check back later."
+				"issues": "TLDev Regions are currently in closed testing, please check back later."
 			},
 			"testedon": {
 				"tldversion": "2.24",
