@@ -1,0 +1,54 @@
+{
+	"version": "2",
+	"author": "Kaiusername",
+	"authorURL": "https://github.com/Kaiusername",
+	"supportURL": "",
+	"mods": [
+		{
+			"type": "mod",
+			"version": "2.24.3",
+			"name": "The Long Development Regions",
+			"displayName": "The Long Development Regions",
+			"author": "Kaiusername, STBlade",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "",
+			"downloadURL": "",
+			"modURL": "https://discord.gg/97xM7k8nCH",
+			"description": "A small team project and a collaborative community effort to expand Great Bear Island in a beautiful and balanced way.",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Base Building",
+				"Overhaul"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://imgur.com/a/MlnPjCv",
+				"https://imgur.com/a/HGhB68U",
+				"https://imgur.com/a/ykc4N2d"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "",
+				"notes": "Rocky Thoroughfare Update 2 (2.24.3) is out for beta testers now.",
+				"issues": "Mod is currently in closed testing, please check back later."
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		}
+	]
+}
