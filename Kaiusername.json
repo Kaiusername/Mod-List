@@ -50,5 +50,50 @@
 			},
 			"aliases": []
 		}
+
+		{
+			"type": "mod",
+			"version": "2",
+			"name": "Collector Cards",
+			"displayName": "Collector Cards",
+			"author": "Kaiusername",
+			"previousAuthors": "",
+			"released": "2023-10-31",
+			"updated": "2024-03-22",
+			"downloadURL": "https://github.com/Kaiusername/Collector-Cards/archive/refs/heads/main.zip",
+			"modURL": "https://github.com/Kaiusername/Collector-Cards",
+			"description": "Find a collection of hand-painted cards hidden across Great Bear!",
+			"tags": "",
+			"categories": [
+				"Gear Items",
+				"Misc"
+			],
+			"gameversion": [],
+			"images": [
+				"https://imgur.com/4lX7aJq"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Rebuilt mod from the ground up. Added new cards and new card packs.",
+				"notes": "Download the .modcomponent and drop it into your 'mods' folder.",
+				"issues": "Mod will not be able to be translated into other languages until a later update."
+			},
+			"testedon": {
+				"tldversion": "2.27",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		}
 	]
 }
