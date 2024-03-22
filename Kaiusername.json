@@ -13,7 +13,7 @@
 			"previousAuthors": "",
 			"released": "2023-11-08",
 			"updated": "2023-11-25",
-			"downloadURL": "",
+			"downloadURL": "https://discord.gg/97xM7k8nCH",
 			"modURL": "https://discord.gg/97xM7k8nCH",
 			"description": "A small team project and a collaborative community effort to expand Great Bear Island in a beautiful and balanced way.",
 			"tags": "",
@@ -37,7 +37,7 @@
 				"working": true,
 				"beta": true,
 				"patchnotes": "",
-				"notes": "Rocky Thoroughfare Update 2 (2.24.3) is out for beta testers now.",
+				"notes": "Forsaken Shore Update 2 (2.25.3) is out for beta testers now.",
 				"issues": "TLDev Regions are currently in closed testing, please check back later."
 			},
 			"testedon": {
@@ -96,6 +96,6 @@
 				"downloads": []
 			},
 			"aliases": []
-		}
+		},
 	]
 }
