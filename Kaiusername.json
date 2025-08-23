@@ -15,7 +15,7 @@
 			"updated": "2023-11-25",
 			"downloadURL": "https://discord.gg/97xM7k8nCH",
 			"modURL": "https://discord.gg/97xM7k8nCH",
-			"description": "A small team project and a collaborative community effort to expand Great Bear Island in a beautiful and balanced way.",
+			"description": "A small team mod project that aims to expand 'THE LONG DARK's' Great Bear Island in both a beautiful and balanced way.",
 			"tags": "",
 			"categories": [
 				"Quality of Life",
@@ -37,12 +37,11 @@
 				"working": true,
 				"beta": true,
 				"patchnotes": "",
-				"notes": "Forsaken Shore Update 2 (2.25.3) is out for beta testers now.",
-				"issues": "TLDev Regions are currently in closed testing, please check back later."
+				"notes": "Join our Discord for EARLY ACCESS. https://discord.gg/97xM7k8nCH",
 			},
 			"testedon": {
 				"tldversion": "2.24",
-				"mlversion": "0.6.1"
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": false,
@@ -99,3 +98,4 @@
 		}
 	]
 }
+
