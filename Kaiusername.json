@@ -37,7 +37,7 @@
 				"working": true,
 				"beta": true,
 				"patchnotes": "",
-				"notes": "Join our Discord for EARLY ACCESS. https://discord.gg/97xM7k8nCH",
+				"notes": "Join our Discord for EARLY ACCESS. https://discord.gg/97xM7k8nCH"
 			},
 			"testedon": {
 				"tldversion": "2.24",
@@ -98,4 +98,5 @@
 		}
 	]
 }
+
 
