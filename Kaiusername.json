@@ -28,14 +28,15 @@
 				"tftft"
 			],
 			"images": [
-				"https://imgur.com/a/tldev-modlist-thumbnail-eY3doql"
+				"https://imgur.com/SHTfGf0"
 			],
 			"dependencies": [],
 			"status": {
 				"working": true,
 				"beta": true,
 				"patchnotes": "",
-				"notes": ""
+				"notes": "",
+				"issues": ""
 			},
 			"testedon": {
 				"tldversion": "2.51",
@@ -118,7 +119,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://imgur.com/a/tldev-supporter-modlist-thumbnail-W8Ep8HW"
+				"https://imgur.com/ifXaAE6"
 			],
 			"dependencies": [],
 			"status": {
