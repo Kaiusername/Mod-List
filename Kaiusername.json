@@ -11,8 +11,8 @@
 			"displayName": "The Long Development (TLDev) Regions",
 			"author": "Kaiusername, STBlade",
 			"previousAuthors": "",
-			"released": "2023-11-08",
-			"updated": "2023-11-25",
+			"released": "2021-06-06",
+			"updated": "2026-01-01",
 			"downloadURL": "https://discord.gg/97xM7k8nCH",
 			"modURL": "https://discord.gg/97xM7k8nCH",
 			"description": "THE LONG DEVELOPMENT is a small team mod project that aims to expand 'THE LONG DARK's' Great Bear Island in both a beautiful and balanced way.",
@@ -35,7 +35,7 @@
 				"working": true,
 				"beta": true,
 				"patchnotes": "",
-				"notes": "",
+				"notes": "This content is in EARLY ACCESS. Please report all issues to our bug tracker forum on the TLDev Discord!",
 				"issues": ""
 			},
 			"testedon": {
@@ -142,6 +142,7 @@
 		}
 	]
 }
+
 
 
 
