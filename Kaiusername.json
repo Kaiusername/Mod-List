@@ -7,8 +7,8 @@
 		{
 			"type": "mod",
 			"version": "2.24.3",
-			"name": "The Long Development Regions",
-			"displayName": "The Long Development Regions",
+			"name": "The Long Development (TLDev) Regions",
+			"displayName": "The Long Development (TLDev) Regions",
 			"author": "Kaiusername, STBlade",
 			"previousAuthors": "",
 			"released": "2023-11-08",
@@ -141,6 +141,7 @@
 		}
 	]
 }
+
 
 
 
