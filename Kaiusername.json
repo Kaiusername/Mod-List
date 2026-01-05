@@ -115,13 +115,14 @@
 				"Overhaul"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://i.imgur.com/ifXaAE6.png"
 			],
-			"dependencies": [],
+			"dependencies": [
+				"The Long Development (TLDev) Regions"
+			],
 			"status": {
 				"working": true,
 				"beta": false,
@@ -141,6 +142,7 @@
 		}
 	]
 }
+
 
 
 
