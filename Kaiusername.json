@@ -28,7 +28,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://i.imgur.com/HhScmee.png",
+				"https://imgur.com/a/tldev-modlist-thumbnail-eY3doql",
 			],
 			"dependencies": [],
 			"status": {
@@ -97,7 +97,7 @@
 		{
 			"type": "mod",
 			"version": "1.0",
-			"name": "tldev_expansion1",
+			"name": "TLDev Supporter Expansion",
 			"displayName": "TLDev Supporter Expansion",
 			"author": "Kaiusername, STBlade",
 			"previousAuthors": "",
@@ -117,7 +117,9 @@
 				"vanilla",
 				"tftft"
 			],
-			"images": [],
+			"images": [
+				"https://imgur.com/a/tldev-supporter-modlist-thumbnail-W8Ep8HW"
+			],
 			"dependencies": [],
 			"status": {
 				"working": true,
@@ -138,6 +140,7 @@
 		}
 	]
 }
+
 
 
 
