@@ -94,54 +94,10 @@
 				"downloads": []
 			},
 			"aliases": []
-		},
-		{
-			"type": "mod",
-			"version": "1.0",
-			"name": "TLDev Supporter Expansion",
-			"displayName": "TLDev Supporter Expansion",
-			"author": "Kaiusername, STBlade",
-			"previousAuthors": "",
-			"released": "2026-01-01",
-			"updated": "2026-01-01",
-			"downloadURL": "https://www.patreon.com/Kaiusername1",
-			"modURL": "https://www.patreon.com/Kaiusername1",
-			"description": "For those who wish to support the future of TLDev!",
-			"tags": "the long development, THE LONG DEVELOPMENT, TLDev, tldev, TLDEV",
-			"categories": [
-				"Quality of Life",
-				"Gameplay",
-				"Base Building",
-				"Overhaul"
-			],
-			"gameversion": [
-				"vanilla"
-			],
-			"images": [
-				"https://i.imgur.com/ifXaAE6.png"
-			],
-			"dependencies": [
-				"The Long Development (TLDev) Regions"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.51",
-				"mlversion": "0.7.2"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
-			},
-			"aliases": []
 		}
 	]
 }
+
 
 
 
