@@ -50,7 +50,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "2",
+			"version": "3",
 			"name": "Collector Cards",
 			"displayName": "Collector Cards",
 			"author": "Kaiusername",
@@ -59,31 +59,27 @@
 			"updated": "2024-03-22",
 			"downloadURL": "https://github.com/Kaiusername/Collector-Cards/releases/download/Update/Collector.Cards.modcomponent",
 			"modURL": "https://github.com/Kaiusername/Collector-Cards",
-			"description": "Find a collection of hand-painted cards hidden across Great Bear!",
+			"description": "Collect hand-painted cards inspired by the world and community of THE LONG DARK!",
 			"tags": "collector cards",
 			"categories": [
 				"Gear Items",
 				"Misc"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
-				"https://i.imgur.com/4lX7aJq.png"
+				"https://i.imgur.com/xmJZBnD.png"
 			],
 			"dependencies": [
-				"ModSettings",
 				"ModComponent",
-				"LocalizationUtilities",
-				"GearSpawner"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
-				"patchnotes": "Rebuilt mod from the ground up. Added new cards and new card packs.",
+				"patchnotes": "Old Cards Returning Soon!",
 				"notes": "Download the .modcomponent and drop it into your 'mods' folder.",
-				"issues": "Mod will not be able to be translated into other languages until a later update."
+				"issues": ""
 			},
 			"testedon": {
 				"tldversion": "2.27",
